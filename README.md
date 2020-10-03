@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 6. Run SuperResolution.py
 ```
-python SuperResolution.py
+python ImageEnhancer.py
 ```
 
 ##### *This README.md was made to best work with MacOS and Linux Distributions*
