@@ -1,0 +1,9 @@
+tkintertable
+numpy
+opencv-python
+opencv-contrib-python
+tqdm
+Pillow
+matplotlib
+tensorflow
+tensorflow-addons
