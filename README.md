@@ -28,3 +28,6 @@ python SuperResolution.py
 ```
 
 ##### *This README.md was made to best work with MacOS and Linux Distributions*
+
+
+### Thanks to [krasserm](https://github.com/krasserm) for [super-resolution](https://github.com/krasserm/super-resolution.git)
