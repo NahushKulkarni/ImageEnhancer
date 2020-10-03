@@ -22,7 +22,7 @@ source ./env/bin/activate
 ```
 pip install -r requirements.txt
 ```
-6. Run SuperResolution.py
+6. Run ImageEnhancer.py
 ```
 python ImageEnhancer.py
 ```
