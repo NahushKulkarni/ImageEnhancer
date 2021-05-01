@@ -1,5 +1,15 @@
 # ImageEnhancer
 
+##### Screenshots
+
+![Sample_1](https://github.com/NahushKulkarni/ImageEnhancer/blob/master/Sample-1.png)
+
+![Sample_2](https://github.com/NahushKulkarni/ImageEnhancer/blob/master/Sample-2.png)
+
+![Sample_3](https://github.com/NahushKulkarni/ImageEnhancer/blob/master/Sample-3.png)
+
+![Sample_4](https://github.com/NahushKulkarni/ImageEnhancer/blob/master/Sample-4.png)
+
 ##### Project Setup
 
 1. Clone this repository
