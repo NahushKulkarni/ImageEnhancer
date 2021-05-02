@@ -1,6 +1,6 @@
 # ImageEnhancer
 
-##### Screenshots
+### Screenshots
 
 ![Sample_1](https://github.com/NahushKulkarni/ImageEnhancer/blob/master/Sample-1.png)
 
